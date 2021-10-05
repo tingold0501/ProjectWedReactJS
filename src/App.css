@@ -36,11 +36,4 @@
     transform: rotate(360deg);
   }
 }
-.navbar-brand img{
-  width: 274%;
-  height: 234%;
-  margin-top: -20px;
-  margin-left: -15px;
-  padding-bottom: -20px;
-  object-fit: cover;
-}
+
